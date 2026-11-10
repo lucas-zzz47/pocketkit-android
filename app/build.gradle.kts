@@ -5,6 +5,7 @@ plugins {
 android {
     namespace = "com.pocketkit.app"
     compileSdk = 35
+    buildToolsVersion = "35.0.0"
     defaultConfig {
         applicationId = "com.pocketkit.app"
         minSdk = 26
@@ -20,4 +21,5 @@ dependencies {
     implementation("com.google.zxing:core:3.5.3")
     testImplementation("junit:junit:4.13.2")
 }
+
 

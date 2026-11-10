@@ -1,0 +1,4 @@
+PocketKit uses ZXing Core 3.5.3 for QR code generation.
+ZXing is licensed under the Apache License, Version 2.0.
+Project: https://github.com/zxing/zxing
+License: https://www.apache.org/licenses/LICENSE-2.0
